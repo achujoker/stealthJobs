@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { API_CONST } from "./ApiConstant";
