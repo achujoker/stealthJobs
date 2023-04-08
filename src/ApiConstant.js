@@ -1,0 +1,1 @@
+export const API_CONST = 'https://64317e363adb1596516db017.mockapi.io/api/v1/jobs'
